@@ -5,6 +5,8 @@ collect coins in space while avoiding the homing space-mines!
 first space girl to 100 points OR first space girl to not collide with a space-mine is victorious
 includes simple elastic rebound physics upon collision of space girls
 
+// expansion on first cs project, requires significant readability facelift
+
 controls:
   player1 move left: a
  player1 move right: d
